@@ -1,0 +1,14 @@
+# Reference videos and test files
+Reference videos/
+test-screenshots/
+test-*.mjs
+
+# Development files
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Documentation (not needed for production)
+README.md
+*.md
