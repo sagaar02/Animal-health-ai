@@ -499,14 +499,6 @@ When contributing, please keep the following in mind:
 
 ---
 
-# 📜 License
-
-This project is released under the **MIT License**.
-
-See `LICENSE` for more information.
-
----
-
 # 🐾 Our Mission
 
 > **Technology should not only make humans healthier.
