@@ -264,7 +264,7 @@ Generate a structured report that can be reviewed or shared with a veterinarian.
 | Backend         | Supabase                          |
 | Authentication  | Supabase Auth                     |
 | Database        | Supabase PostgreSQL               |
-| Computer Vision | YOLO                              |
+| Computer Vision | YOLO NANO                         |
 | Pose Analysis   | Pose estimation / keypoint models |
 | AI / ML         | Machine Learning & Deep Learning  |
 | Reports         | PDF generation                    |
